@@ -1019,8 +1019,8 @@
       </bpmndi:BPMNEdge>
       <bpmndi:BPMNEdge id="Flow_03lz23s_di" bpmnElement="Flow_03lz23s">
         <omgdi:waypoint x="2965" y="700" />
-        <omgdi:waypoint x="2965" y="1010" />
-        <omgdi:waypoint x="440" y="1010" />
+        <omgdi:waypoint x="2965" y="1020" />
+        <omgdi:waypoint x="440" y="1020" />
         <omgdi:waypoint x="440" y="1290" />
         <omgdi:waypoint x="525" y="1290" />
       </bpmndi:BPMNEdge>
